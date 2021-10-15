@@ -1,0 +1,41 @@
+body {
+    margin: 40px 0 0 0;
+    font-family: 'Abel', sans-serif;
+    color: white;
+}
+
+
+.wrapper {
+    width: 1200px;
+    height: 770px;
+    margin: 0 auto;
+    background-image: url(images/coco.jpg);
+}
+
+.inner-wrapper {
+    width: 50%;
+    position: relative;
+    float: right;
+    padding-top: 100px;
+    margin: 50px;
+
+}
+
+.inner-wrapper img {
+    width: 500px;
+    margin-left: 0pt;
+}
+
+
+a {
+    background-color: rgb(248, 115, 6);
+    padding: 15px 25px;
+    color: #FFF;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+p {
+    margin-bottom: 50px;
+}
